@@ -1,0 +1,62 @@
+body{
+
+background-image: url(etiqueta\ morada\ 3.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+
+
+}
+body{
+
+background-color: #F2E68D;
+
+}
+.imagen1 {
+
+background-image: url(awakate.gif);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 250px;
+width: 250px;
+border-radius: 25px;
+
+}
+.imagen2{
+
+background-image: url(torre\ gif.gif);
+background-position: center;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 250px;
+width: 250px;
+border-radius: 25px;
+
+}
+.imagen3{
+
+    background-image: url(luna.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+    border-radius: 25px;
+
+}
+.imagen4{
+
+    background-image: url(vino.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+    border-radius: 25px;
+
+}
